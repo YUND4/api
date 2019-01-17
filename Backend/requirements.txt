@@ -1,0 +1,7 @@
+django
+djangorestframework
+djangorestframework_simplejwt
+psycopg2
+pilow
+django-filter
+markdown
